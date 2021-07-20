@@ -1,0 +1,22 @@
+/*-------------------------------------------------------------------------------*/
+/*------------------------------ AddCourses Styles ------------------------------*/
+/*-------------------------------------------------------------------------------*/
+
+.wrapper {
+    height: 90%;
+}
+
+.heading {
+    background-color: #2D68C4;
+    color: #fff;
+    padding: 10px;
+    font-size: 18pt;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.add-courses-body {
+    background-color: #f1f1f1;
+    height: 100%;
+    padding: 10px;
+}

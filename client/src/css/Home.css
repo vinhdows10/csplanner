@@ -1,0 +1,26 @@
+/*-------------------------------------------------------------------------*/
+/*------------------------------ Home Styles ------------------------------*/
+/*-------------------------------------------------------------------------*/
+
+.main {
+    display: flex;
+    padding-top: 50px;
+}
+
+.add-courses {
+    height: 80%;
+    width: 300px;
+    padding: 50px;
+}
+
+.schedule-wrapper {
+    width: 100%;
+    padding: 50px 50px 50px 0px;
+}
+
+.schedule {
+    height: 100%;
+    width: 95%;
+    overflow-y: scroll;
+    padding-right: 40px;
+}

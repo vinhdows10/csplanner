@@ -10,6 +10,7 @@
 .add-courses {
     height: 80%;
     width: 300px;
+    min-width: 200px;
     padding: 50px;
 }
 
